@@ -1,0 +1,9 @@
+CSV_FILE: dataset/train.csv
+DATA_DIR: dataset/
+DEVICE: cuda
+EPOCHS: 25
+LR: 0.003
+BATCH_SIZE: 4
+IMG_SIZE: 512
+ENCODER: timm-efficientnet-b0
+WEIGHTS: imagenet
